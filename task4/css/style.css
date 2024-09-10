@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+   
+    
+}
+
+
+
+.left {
+    float: left;
+    background-color: #d1e3e3;
+    width: 20%;
+    height: 100vh;
+}
+
+li {
+    margin: 5px;
+    font-size: 20px;
+
+}
+
+.ch {
+    background-color: #f6f8f8;
+    font-size: 25px;
+    margin: 10px;
+}
+
+li:hover {
+
+    background-color: #f6f8f8;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.text {
+    text-align: center;
+    font-size: 30px;
+}
+
+.right {
+    float: left;
+    background-color: #f2f4f4;
+    
+     width: 80%;
+     height: 100vh;
+}
+
+.header {
+    margin: 5px;
+    border: 2px solid #869d9d;
+    text-align: center;
+}
+
+.header:hover {
+    background-color: #95b8b8;
+    color: white;
+}
+
+.inp {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 80px;
+    width: 250px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.inp:hover {
+    border: 2px solid #869d9d;
+    border-radius: 5px;
+    background-color: #d1e7e7;
+}
+
+.inp2 {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 80px;
+    width: 250px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.inp2:hover {
+    border: 2px solid #869d9d;
+    border-radius: 5px;
+    background-color: #d1e7e7;
+}
+
+.select {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.sel {
+    font-size: 20px;
+}
+
+.tarea {
+    margin-left: 10px;
+    font-size: 20px;
+    resize: none;
+}
+
+.tarea:hover {
+    border: 2px solid #869d9d;
+
+}
+
+.code {
+    margin-left: 90px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+.confcode {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.confcode:hover {
+    border: 2px solid #b6cccc;
+    border-radius: 5px;
+    background-color: #d1e7e7;
+}
+
+.but {
+
+    margin-left: 400px;
+    background-color: #b8d2d2;
+    width: 150px;
+    height: 40px;
+}
+
+.but a {
+    color: #0d3030;
+    font-size: 20px;
+}
