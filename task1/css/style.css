@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(230, 227, 231);
+}
+
+img {
+    width: 250px;
+    height: 200px;
+}
+
+h3 {
+    color: rgb(221, 201, 217);
+    background-color: rgb(98, 107, 230);
+    width: 250px;
+    height: 25px;
+    border-radius: 10px;
+}
+
+p {
+    color: rgb(221, 201, 217);
+    background-color: rgb(98, 107, 230);
+    ;
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+p::selection {
+    user-select: none;
+}
+
+iframe {
+    border-radius: 50%;
+}
+
+input {
+    border-color: rgb(194, 212, 220);
+    border-radius: 5px;
+    background-color: rgb(221, 201, 217);
+    ;
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    border-color: blue;
+}
